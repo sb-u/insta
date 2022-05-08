@@ -1,1 +1,1 @@
-{'ver1':'4', 'ver2':'00', 'ver3':'\n[Base update]1. 232.0.0.16.114\n[Added]2. Font Styles\n' , 'dli':'https://sbmodsapkstore.blogspot.com/2021/05/insta-pro-v2.html'}
+{'ver1':'4', 'ver2':'10', 'ver3':'\n[Base update]1. 232.0.0.16.114\n[Added]2. Font Styles\n' , 'dli':'https://sbmodsapkstore.blogspot.com/2021/05/insta-pro-v2.html'}
