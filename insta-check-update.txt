@@ -1,1 +1,1 @@
-{'ver1':'4', 'ver2':'20', 'ver3':'\n[Base update]1. 240.2.0.18.107\n[Added]2. New App Lock design\n' , 'dli':'https://www.sbmodsapkstore.gq/2021/05/insta-pro-v2.html'}
+{'ver1':'4', 'ver2':'30', 'ver3':'\n[Base update]1. 249.0.0.20.105\n[Added]2. New Story Layout\n' , 'dli':'https://www.sbmodsapkstore.gq/2021/05/insta-pro-v2.html'}
