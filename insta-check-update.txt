@@ -1,1 +1,2 @@
-{'ver1':'4', 'ver2':'35', 'ver3':'\n[Base update]1. 249.0.0.20.105\n[Fixed]2. 60 sec Story\n' , 'dli':'https://www.sbmodsapkstore.gq/2021/05/insta-pro-v2.html'}
+
+{'ver1':'4', 'ver2':'50', 'ver3':'\n[Base update]1. 261.0.0.21.111\n[Added]2. An option to change the shape of the stories in the circular and square shape of the additions, then reinforcement, then open the stories in full screen mode\n[Added]3. The feature of changing fonts and adding iPhone fonts\n[Added]4. The feature of changing fonts and adding iPhone fonts\n[Added]5. Choose your favorite launcher icon\n' , 'dli':'https://www.sbmodsapkstore.gq/2021/05/insta-pro-v2.html'}
